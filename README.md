@@ -1,1 +1,1 @@
-# SQLite
+# node-sqlite-sample

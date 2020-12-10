@@ -1,0 +1,28 @@
+{
+  "name": "sqlite-sample",
+  "version": "1.0.0",
+  "description": "In this tutorial I will be demonstrating how to use SQLite in combination with JavaScript inside the Node.js environment with the help of the sqlite3 Node.js driver. For those not familiar with SQLite, it is a simple single file relational database that is very popular among smart devices, embedded systems, and even small web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendisantika/node-sqlite-sample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "sqlite"
+  ],
+  "author": "Hendi Santika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendisantika/node-sqlite-sample/issues"
+  },
+  "homepage": "https://github.com/hendisantika/node-sqlite-sample#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "performance-now": "^2.1.0",
+    "sqlite3": "^4.0.4"
+  }
+}
